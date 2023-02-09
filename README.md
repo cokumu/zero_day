@@ -1,15 +1,13 @@
-#Take the lead with ALX
+#Vagrant - or -how to code in your local computer
 
-##Digital Transformation is the next Industrial Revolution
+##Learning Objective
 
-At ALX, our programmes are designed to provide you with the in-demand skills for the careers that power the world. We're proud to announce our new tech programmes for 2023 -- all focused on what employers need most.
+At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-* Software Engineering
+* What is a virtual machine
 
-* Data Science
+* What is Vagrant
 
-* Data Analyst
+* Who wrote Vagrant
 
-* AWS Cloud Practitioner
-
-* Salesforce Administrator
+* What is Ubuntu
